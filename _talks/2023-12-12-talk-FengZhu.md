@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8ebd58fd-c273-41f9-afa0-54103cb5f9ba)---
+---
 title: "AI-assisted drug target discovery"
 collection: talks
 type: "Talk"
