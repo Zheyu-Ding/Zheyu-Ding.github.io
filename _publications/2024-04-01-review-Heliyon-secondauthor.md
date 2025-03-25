@@ -2,7 +2,7 @@
 title: "The role of molecular chaperone CCT/TRiC in translation elongation: A literature review"
 collection: publications
 category: manuscripts
-permalink: /_publications/2024-04-01-review-Heliyon-secondauthor
+permalink: /publication/2024-04-01-review-Heliyon-secondauthor
 excerpt: 'Second Author.'
 date: 2024-04-01
 venue: 'Heliyon'
