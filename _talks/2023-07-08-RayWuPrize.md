@@ -8,4 +8,4 @@ date: 2023-03-01
 location: "Hangzhou, Zhejiang, China"
 ---
 
-The Ray Wu Prize is the highest award for Chinese researchers in the field of life sciences. All recipients of this award go on to become principal investigators (PIs) in the field of life sciences.
+The Ray Wu Prize is the highest award for Chinese researchers in the field of life sciences. All recipients of this award go on to become principal investigators (PIs) in the field of life sciences.I am very fortunate to attend this conference.
