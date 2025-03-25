@@ -3,6 +3,7 @@ title: "Exploring the potential of large language model–based chatbots in chal
 collection: publications
 category: manuscripts
 permalink: /_publications/2024-12-12-paper-LLM-BIB-firstauthor
+excerpt: 'First Author. IF=9.5'
 date: 2024-12-12
 venue: 'Briefings in Bioinformatics'
 slidesurl: 'http://Zheyu-Ding.github.io/files/BIB.pdf'
