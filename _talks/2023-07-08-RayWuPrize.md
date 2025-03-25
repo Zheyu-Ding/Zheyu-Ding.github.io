@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2023-07-08-RayWuPrize
 venue: "The Ray Wu Memorial Fund"
-date: 2023-03-01
+date: 2023-07-08
 location: "Hangzhou, Zhejiang, China"
 ---
 
