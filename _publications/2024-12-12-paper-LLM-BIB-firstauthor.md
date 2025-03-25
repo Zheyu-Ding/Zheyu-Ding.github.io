@@ -2,7 +2,7 @@
 title: "Exploring the potential of large language model–based chatbots in challenges of ribosome profiling data analysis: a review"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-12-12-paper-LLM-BIB-firstauthor
+permalink: /_publications/2024-12-12-paper-LLM-BIB-firstauthor
 date: 2024-12-12
 venue: 'Briefings in Bioinformatics'
 slidesurl: 'http://Zheyu-Ding.github.io/files/BIB.pdf'
