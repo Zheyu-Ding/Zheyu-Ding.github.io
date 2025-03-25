@@ -15,7 +15,7 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-# Work experience
+Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -53,12 +53,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-# Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Service and leadership
+Service and leadership
 ======
 * Currently signed in to 43 different slack teams
