@@ -10,4 +10,7 @@ redirect_from:
 
 I'm a third year master student. My research interest includes bioinformatics, omics, translation regulation, and ribosome profiling.
 
+I’m actively seeking opportunities to pursue a Doctor’s degree starting from Fall 2025.
+
+
 [Email](mailto:Zheyu-Ding@outlook.com)/[GitHub](https://github.com/Zheyu-Ding/)/[Google Scholor](https://scholar.google.com/citations?user=-qHpbDIAAAAJ&hl=en)/[ORCID](https://orcid.org/0009-0002-9560-0369)/[LinkedIn](http://www.linkedin.com/in/zheyuding)
