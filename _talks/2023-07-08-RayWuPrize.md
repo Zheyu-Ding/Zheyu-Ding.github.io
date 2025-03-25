@@ -3,9 +3,9 @@ title: "The 12th Ray Wu Symposium & Ray Wu Prize Award Ceremony(2023)"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2023-07-08-RayWuPrize
-venue: "Ray Wu Prize annual conference"
+venue: "The Ray Wu Memorial Fund"
 date: 2023-03-01
 location: "Hangzhou, Zhejiang, China"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+The Ray Wu Prize is the highest award for Chinese researchers in the field of life sciences. All recipients of this award go on to become principal investigators (PIs) in the field of life sciences.
