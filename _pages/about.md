@@ -11,7 +11,7 @@ redirect_from:
 I'm a Ph.D candidate at [cancer cell plasticity lab](https://www.ssshen.com/) under West China Hospital
 , Sichuan University. My research interest includes systems biology, bioinformatics, omics, translation regulation, and ribosome profiling.
 
-I got B.S. degree from [School of Pharmacy](https://pharm.hainanu.edu.cn/), Hainan University in 2022. I got M.S. degree from [School of Pharmacy](https://pharmacy.hznu.edu.cn/), Hangzhou Normal University in 2025.(advised by [Dr.Yingying Lin](https://orcid.org/0009-0008-7341-8260)) From September 2023 to March 2025, I am a visiting student at the [Dieter A. Wolf Lab](https://www.dieter-wolf-lab-westlakeuniversity.cn/), [School of Medicine](https://medicine.westlake.edu.cn/About/Overview/), Westlake University. There, I am fortunate to be advised by [Dr.Fajin Li](https://scholar.google.com/citations?hl=en&user=Vj3JwOkAAAAJ) and learn bioinformatics under his guidance.
+I got B.S. degree from [School of Pharmacy](https://pharm.hainanu.edu.cn/), Hainan University in 2022. I got M.S. degree from [School of Pharmacy](https://pharmacy.hznu.edu.cn/), Hangzhou Normal University in 2025. There, I am fortunate to be advised by [Dr.Yingying Lin](https://orcid.org/0009-0008-7341-8260). From September 2023 to March 2025, I am a visiting student at the [Dieter A. Wolf Lab](https://www.dieter-wolf-lab-westlakeuniversity.cn/), [School of Medicine](https://medicine.westlake.edu.cn/About/Overview/), Westlake University. There, I am fortunate to be advised by [Dr.Fajin Li](https://scholar.google.com/citations?hl=en&user=Vj3JwOkAAAAJ) and learn bioinformatics under his guidance.
 
 You may be able to obtain my curriculum vitae via email.
 
