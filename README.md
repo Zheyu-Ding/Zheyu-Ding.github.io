@@ -1,3 +1,3 @@
-# Zheyu Ding's Personal Homepage
+# Zheyu Ding's HomePage
 
 Welcome🤝
