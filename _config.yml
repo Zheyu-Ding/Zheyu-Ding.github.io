@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zheyu Ding's Personal Homepage"
+title                    : "Zheyu Ding's HomePage"
 title_separator          : "-"
 name                     : &name "Zheyu Ding"
 description              : &description "Ph.D candidate at Sichuan University"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile1.png"
   name             : "Zheyu Ding(丁哲煜)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D candidate at SCU"
+  bio              : "Ph.D candidate@SCU"
   location         : "Chengdu, China"
   employer         : "Sichuan University"
   uri              : # URL
