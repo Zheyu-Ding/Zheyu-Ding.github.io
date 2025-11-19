@@ -6,7 +6,7 @@ permalink: /_publications/2025-11-17-review-NC-thirdauthor
 excerpt: 'Third Author.'
 date: 2025-11-17
 venue: 'Nature Communications'
-#slidesurl: 'http://Zheyu-Ding.github.io/files/NC_persister issue.pdf'
+slidesurl: '[Original Website](https://www.nature.com/articles/s41467-025-66376-6?fromPaywallRec=false)'
 paperurl: 'http://Zheyu-Ding.github.io/files/NC_persister issue.pdf'
 citation: 'Wang, Z., Wang, M., Dong, B. et al. Drug-tolerant persister cells in cancer: bridging the gaps between bench and bedside. Nat Commun 16, 10048 (2025). https://doi.org/10.1038/s41467-025-66376-6'
 ---
