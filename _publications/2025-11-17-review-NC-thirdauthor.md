@@ -2,8 +2,8 @@
 title: "Drug-tolerant persister cells in cancer: bridging the gaps between bench and bedside"
 collection: publications
 category: manuscripts
-permalink: /_publications/2025-11-17-review-NC-thirdauthor
-excerpt: 'Third Author.'
+permalink: /_publications/2025-11-17-review-NC-coauthor
+excerpt: 'Co-author.'
 date: 2025-11-17
 venue: 'Nature Communications'
 # slidesurl: '[Original Website](https://www.nature.com/articles/s41467-025-66376-6?fromPaywallRec=false)'
