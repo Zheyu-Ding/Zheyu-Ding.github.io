@@ -1,0 +1,14 @@
+---
+title: "Eukaryote initiation factor 6 modulates small-cell lung carcinoma plasticity via the integrin-FAK signaling axis"
+collection: publications
+category: manuscripts
+permalink: /_publications/2026-02-26-Article-NC-eIF6-coauthor
+excerpt: 'Co-author. Responsible for ribosome profiling data analysis.'
+date: 2026-02-24
+venue: 'Nature Communications'
+# slidesurl: '[Original Website](https://www.nature.com/articles/s41467-025-66376-6?fromPaywallRec=false)'
+paperurl: 'http://Zheyu-Ding.github.io/files/NC_eIF6.pdf'
+citation: 'Peng, Haoning<sup>#</sup>, Zhile Wang<sup>#</sup>, Mengyao Wang<sup>#</sup>, Zheyu Ding, Kaixiu Li, Yuqing Wang, Xuejiao Yu, Siyang Song, Yulan Deng, Yi Liu, Qiang Pu, Lu Li, Michael Cerezo, Weiya Wang, Lunxu Liu<sup>*</sup>, and Shensi Shen<sup>*</sup>. 2026. "Eukaryote initiation factor 6 modulates small-cell lung carcinoma plasticity via the integrin-FAK signaling axis."  Nature Communications. doi: 10.1038/s41467-026-69899-8.'
+---
+
+Small cell lung carcinoma (SCLC) is an aggressive neuroendocrine cancer that rapidly develops resistance to platinum-based chemotherapy. A key feature of SCLC is its ability to switch between neuroendocrine (NE) and non-neuroendocrine (non-NE) states, a process linked to therapeutic failure, yet the underlying mechanisms driving this plasticity remain incompletely understood. Here, we show that the translation initiation factor eIF6 is a critical regulator of non-NE transdifferentiation in SCLC. eIF6 expression is consistently upregulated in non-NE states across cell lines, mouse models, and patient samples, accompanied by global remodelling of the translational landscape. Mechanistically, eIF6 dissociates from ribosomes and interacts with the CD104-FAK complex, leading to MAPK pathway activation. Intervening eIF6 suppresses non-NE transdifferentiation and enhances SCLC chemotherapy sensitivity in vitro and in vivo. These findings position the eIF6-CD104-FAK axis as a prognostic marker and therapeutic target, offering a potential strategy to mitigate SCLC resistance.
